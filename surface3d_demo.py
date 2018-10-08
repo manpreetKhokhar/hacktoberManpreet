@@ -9,6 +9,7 @@ The surface is made opaque by using antialiased=False.
 Also demonstrates using the LinearLocator and custom formatting for the
 z axis tick labels.
 '''
+#To give a 3D demonstration
 
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
